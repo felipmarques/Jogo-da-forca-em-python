@@ -1,2 +1,2 @@
 # Jogo da forca em python
- Jogo da forca listas
+ Jogo da forca utilizando listas
