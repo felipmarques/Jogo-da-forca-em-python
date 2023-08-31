@@ -1,7 +1,8 @@
-"""Jogo da Forca básico utilizando listas"""
+"""Jogo da Forca utilizando listas"""
 
-from funções import Title
 from random import choice
+
+
 
 palavras = ["banana", "pastel", "borboleta", "machado", "morango", "futebol"]
 palavra_secreta = choice(palavras)
