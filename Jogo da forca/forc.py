@@ -2,7 +2,10 @@
 
 from random import choice
 
-
+def Title(msg):
+    print("*"*len(msg))
+    print(msg.upper())
+    print("*"*len(msg))
 
 palavras = ["banana", "pastel", "borboleta", "machado", "morango", "futebol"]
 palavra_secreta = choice(palavras)
